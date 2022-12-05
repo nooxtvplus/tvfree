@@ -21,7 +21,7 @@ https://0.0.0.6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.brightontoymuseum.co.uk/w/images/Lego_Creator_logo.jpg" group-title="7",Valorize O Trabalho.
 https://0.0.0.7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/157/204/png-transparent-logo-brand-font-refresh-text-trademark-logo.png" group-title="8",Atualizado 04/12/2022.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/157/204/png-transparent-logo-brand-font-refresh-text-trademark-logo.png" group-title="8",Atualizado 06/12/2022.
 https://0.0.0.8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/157/204/png-transparent-logo-brand-font-refresh-text-trademark-logo.png" group-title="9",Lista IPTV 
@@ -219,6 +219,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes/Séries",LassTV
 https://tv02.zas.media:1936/lasstv/lasstv/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4548/cabecalho-4548-20190520124850.png" group-title="Filmes/Séries",Liberdade TV
+https://video01.logicahost.com.br/liberdadetv/liberdadetv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/15443/thumb_LOADING_TV.png" group-title="Desenhos/kids",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
@@ -233,6 +236,9 @@ http://186.237.161.55:1935/mastertvsd/mobile/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes/PPV",Motorvision
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://spaceks.net/sites/murilotv.com.br/images/logo/logo_230534682.png" group-title="Desenhos/kids",Murilo TV
+https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes/Séries",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -270,7 +276,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/200px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Abertos/Locais",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20220504161402.jpg" group-title="Desenhos/kids",Rede Clone
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20221201014657.jpg" group-title="Desenhos/kids",Rede Clone
 https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/3/thumb_Logo_Mosaico-800x800-1576090598.png" group-title="Abertos/Locais",Rede Mosaico
@@ -333,10 +339,13 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-pequena.png" group-title="Filmes/Séries",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tbomt.com.br/images/logo.png" group-title="Abertos/Locais",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7034/cabecalho-7034-20221110073958.png" group-title="Filmes/Séries",TV Cidade Tiradentes
 https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosnaweb.com.br/logos/logo-1b46ec8ca6.png" group-title="Filmes/Séries",TV Clássicos Do Cinema
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxT_UNJOf-zC9lIET-R5_cnBhsYY3aQrN8wC5Uh5Kg7l32Hf8GUZIuIcfEMIDQZvd0D90ZKKZl8MLSbA_TPdev_Ac89h4SVj3BMYAXr5SB8dqJMEJJ5gwjGu7RiNPKGo0WGLBODVvadfVwmDbIL_AUjDMN1EM6d6LI1Kbq7-fPQFgQj-fix7R9WkSeaw/s16000/LOGO%20DE%20NATAL%20OFICIAL%20(1).png" group-title="Filmes/Séries",TV Clássicos Do Cinema
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7198/20221107121332_favicon.ico" group-title="Filmes/Séries",TV Criar
@@ -354,11 +363,20 @@ https://video01.kshost.com.br:4443/david7639/david7639/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/5459/cabecalho-5459-20200226161907.png" group-title="Filmes/Séries",TV Jornal Do Nordeste
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/8303/logo_face-8303-20200929212852.jpg" group-title="Filmes/Séries",TV Mais Brasil
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmeteoro.site/admin/assets/img/logo.png" group-title="Filmes/Séries",TV Meteoro
+https://5a0c3936c25c8.streamlock.net/8012/8012/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvnatal.com.br/assets/images/favicon/logo%20HD%20c%C3%B3pia.png" group-title="Filmes/Séries",TV Natal
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" group-title="Filmes/Séries",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Novelas_-_Logotipo..png" group-title="Filmes/Séries",TV Novelas
+https://stmv1.srvif.com/tvnovelas/tvnovelas/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiolitoral945.com.br/files/2019/08/logo.png" group-title="Filmes/Séries",TV Rádio Litoral
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist.m3u8
